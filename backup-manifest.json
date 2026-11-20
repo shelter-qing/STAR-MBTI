@@ -1,0 +1,11 @@
+{
+  "base": "cbdd9d9c816136b66f42d98dfb8773e9c7ef8ce3",
+  "baseTime": "2026-11-18T17:33:43+08:00",
+  "snapshot": "a6bde7cfe573439b7c36cebf91320e69c93d4fc0",
+  "branch": "codex/backup-before-2026-11-19",
+  "originalTag": "backup-before-2026-11-19-original",
+  "sourceChanges": "None; only original PNG/SVG artwork added to make restoration complete",
+  "addedAssets": 143,
+  "bundleBytes": 29917851,
+  "zipBytes": 8750986
+}
